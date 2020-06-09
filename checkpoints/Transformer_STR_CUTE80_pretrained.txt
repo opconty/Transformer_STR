@@ -1,0 +1,4 @@
+PLEASE DOWNLOAD PRETRAINED WEIGHT FROM:
+https://drive.google.com/file/d/1o7aEt_Rmz5ZDIZqc2Z74lo01Tjq87uO1/view?usp=sharing
+
+AND PLACED IT IN THE CURRENT DIR.
